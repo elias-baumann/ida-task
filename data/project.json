@@ -1,0 +1,1516 @@
+{
+    "Project": {
+        "backgroundColor": "#000000ff",
+        "keywords": [{
+            "weight": 1,
+            "className": "Keyword",
+            "value": "Poetic Docu"
+        }],
+        "randomLinkMode": false,
+        "movieHeight": 768,
+        "name": "Poetic Docu",
+        "movieWidth": 1024,
+        "className": "Project",
+        "id": 34,
+        "keepLinksOnEmptySearch": false,
+        "uuid": "333b682a-1b7c-4a53-8b4c-7875a809432f",
+        "events": []
+    },
+    "interfaces": [
+        {
+            "keywords": [{
+                "weight": 1,
+                "className": "Keyword",
+                "value": "Normales Interface"
+            }],
+            "name": "Normales Interface",
+            "className": "Interface",
+            "id": 54,
+            "widgets": [
+                {
+                    "scalingPolicy": "scale-down",
+                    "keywords": [],
+                    "x": 0,
+                    "width": 1024,
+                    "y": 0,
+                    "className": "Widget",
+                    "id": 668,
+                    "persist": {},
+                    "type": "org.korsakow.widget.MainMedia",
+                    "height": 768
+                },
+                {
+                    "scalingPolicy": "contain",
+                    "keywords": [],
+                    "previewTextMode": "always",
+                    "index": "1",
+                    "previewOverlayColor": "#00000080",
+                    "className": "Widget",
+                    "textDecoration": "none",
+                    "type": "org.korsakow.widget.Preview",
+                    "fontStyle": "normal",
+                    "horizontalTextAlignment": "left",
+                    "fontFamily": "Courier",
+                    "x": 630,
+                    "width": 200,
+                    "y": 280,
+                    "fontSize": "1.0",
+                    "id": 669,
+                    "persist": {},
+                    "fontColor": "#ffffffff",
+                    "fontWeight": "normal",
+                    "height": 200,
+                    "previewTextEffect": "none",
+                    "verticalTextAlignment": "top"
+                },
+                {
+                    "scalingPolicy": "contain",
+                    "keywords": [],
+                    "previewTextMode": "always",
+                    "index": "2",
+                    "previewOverlayColor": "#00000080",
+                    "className": "Widget",
+                    "textDecoration": "none",
+                    "type": "org.korsakow.widget.Preview",
+                    "fontStyle": "normal",
+                    "horizontalTextAlignment": "left",
+                    "fontFamily": "Courier",
+                    "x": 216,
+                    "width": 200,
+                    "y": 280,
+                    "fontSize": "1.0",
+                    "id": 670,
+                    "persist": {},
+                    "fontColor": "#ffffffff",
+                    "fontWeight": "normal",
+                    "height": 200,
+                    "previewTextEffect": "none",
+                    "verticalTextAlignment": "top"
+                }
+            ]
+        },
+        {
+            "keywords": [{
+                "weight": 1,
+                "className": "Keyword",
+                "value": "StopMusic"
+            }],
+            "name": "StopMusic",
+            "className": "Interface",
+            "id": 11,
+            "widgets": [
+                {
+                    "scalingPolicy": "fill",
+                    "keywords": [],
+                    "x": 0,
+                    "width": 1024,
+                    "y": 0,
+                    "className": "Widget",
+                    "id": 83,
+                    "persist": {},
+                    "type": "org.korsakow.widget.MainMedia",
+                    "height": 768
+                },
+                {
+                    "keywords": [],
+                    "className": "Widget",
+                    "textDecoration": "none",
+                    "type": "org.korsakow.widget.InsertText",
+                    "fontStyle": "normal",
+                    "fontFamily": "Courier",
+                    "x": 0,
+                    "width": 0,
+                    "y": 384,
+                    "fontSize": "1.0",
+                    "id": 84,
+                    "persist": {},
+                    "fontWeight": "normal",
+                    "fontColor": "#ffffffff",
+                    "height": 80
+                },
+                {
+                    "keywords": [],
+                    "className": "Widget",
+                    "textDecoration": "none",
+                    "type": "org.korsakow.widget.InsertText",
+                    "fontStyle": "normal",
+                    "fontFamily": "Courier",
+                    "x": 0,
+                    "width": 0,
+                    "y": 384,
+                    "fontSize": "1.0",
+                    "id": 85,
+                    "persist": {},
+                    "fontWeight": "normal",
+                    "fontColor": "#ffffffff",
+                    "height": 80
+                },
+                {
+                    "scalingPolicy": "contain",
+                    "keywords": [],
+                    "previewTextMode": "always",
+                    "index": "1",
+                    "previewOverlayColor": "#00000080",
+                    "className": "Widget",
+                    "textDecoration": "none",
+                    "type": "org.korsakow.widget.Preview",
+                    "fontStyle": "normal",
+                    "horizontalTextAlignment": "left",
+                    "fontFamily": "Courier",
+                    "x": 412,
+                    "width": 200,
+                    "y": 284,
+                    "fontSize": "1.0",
+                    "id": 86,
+                    "persist": {},
+                    "fontColor": "#ffffffff",
+                    "fontWeight": "normal",
+                    "height": 200,
+                    "previewTextEffect": "none",
+                    "verticalTextAlignment": "top"
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "filename": "image/happy.png",
+            "keywords": [{
+                "weight": 1,
+                "className": "Keyword",
+                "value": "happyPreview"
+            }],
+            "name": "happyPreview",
+            "className": "Image",
+            "id": 48
+        },
+        {
+            "filename": "image/nervous.png",
+            "keywords": [{
+                "weight": 1,
+                "className": "Keyword",
+                "value": "nervous"
+            }],
+            "name": "nervous",
+            "className": "Image",
+            "id": 49
+        },
+        {
+            "filename": "image/nostalgia.png",
+            "keywords": [{
+                "weight": 1,
+                "className": "Keyword",
+                "value": "nostalgia"
+            }],
+            "name": "nostalgia",
+            "className": "Image",
+            "id": 50
+        },
+        {
+            "filename": "image/nothing.png",
+            "keywords": [{
+                "weight": 1,
+                "className": "Keyword",
+                "value": "nothing"
+            }],
+            "name": "nothing",
+            "className": "Image",
+            "id": 51
+        },
+        {
+            "filename": "image/scary.png",
+            "keywords": [{
+                "weight": 1,
+                "className": "Keyword",
+                "value": "scary"
+            }],
+            "name": "scary",
+            "className": "Image",
+            "id": 52
+        },
+        {
+            "filename": "image/stop.png",
+            "keywords": [{
+                "weight": 1,
+                "className": "Keyword",
+                "value": "stop.png"
+            }],
+            "name": "stop.png",
+            "className": "Image",
+            "id": 505
+        },
+        {
+            "filename": "image/adventurous.png",
+            "keywords": [{
+                "weight": 1,
+                "className": "Keyword",
+                "value": "adventurous"
+            }],
+            "name": "adventurous",
+            "className": "Image",
+            "id": 45
+        },
+        {
+            "filename": "image/calm.png",
+            "keywords": [{
+                "weight": 1,
+                "className": "Keyword",
+                "value": "calm"
+            }],
+            "name": "calm",
+            "className": "Image",
+            "id": 46
+        },
+        {
+            "filename": "image/excited.png",
+            "keywords": [{
+                "weight": 1,
+                "className": "Keyword",
+                "value": "excited"
+            }],
+            "name": "excited",
+            "className": "Image",
+            "id": 47
+        },
+        {
+            "filename": "thumbnail/stopamusic.jpg",
+            "keywords": [{
+                "weight": 1,
+                "className": "Keyword",
+                "value": "stopamusic.jpg"
+            }],
+            "name": "stopamusic.jpg",
+            "className": "Image",
+            "id": 722
+        },
+        {
+            "filename": "thumbnail/startasnu.jpg",
+            "keywords": [{
+                "weight": 1,
+                "className": "Keyword",
+                "value": "startasnu.jpg"
+            }],
+            "name": "startasnu.jpg",
+            "className": "Image",
+            "id": 723
+        },
+        {
+            "filename": "thumbnail/scary.jpg",
+            "keywords": [{
+                "weight": 1,
+                "className": "Keyword",
+                "value": "scary.jpg"
+            }],
+            "name": "scary.jpg",
+            "className": "Image",
+            "id": 724
+        },
+        {
+            "filename": "thumbnail/nostalgia.jpg",
+            "keywords": [{
+                "weight": 1,
+                "className": "Keyword",
+                "value": "nostalgia.jpg"
+            }],
+            "name": "nostalgia.jpg",
+            "className": "Image",
+            "id": 725
+        },
+        {
+            "filename": "thumbnail/nervousasnu.jpg",
+            "keywords": [{
+                "weight": 1,
+                "className": "Keyword",
+                "value": "nervousasnu.jpg"
+            }],
+            "name": "nervousasnu.jpg",
+            "className": "Image",
+            "id": 726
+        },
+        {
+            "filename": "thumbnail/happyasnu.jpg",
+            "keywords": [{
+                "weight": 1,
+                "className": "Keyword",
+                "value": "happyasnu.jpg"
+            }],
+            "name": "happyasnu.jpg",
+            "className": "Image",
+            "id": 727
+        },
+        {
+            "filename": "thumbnail/excitedasnu.jpg",
+            "keywords": [{
+                "weight": 1,
+                "className": "Keyword",
+                "value": "excitedasnu.jpg"
+            }],
+            "name": "excitedasnu.jpg",
+            "className": "Image",
+            "id": 728
+        },
+        {
+            "filename": "thumbnail/endasnu.jpg",
+            "keywords": [{
+                "weight": 1,
+                "className": "Keyword",
+                "value": "endasnu.jpg"
+            }],
+            "name": "endasnu.jpg",
+            "className": "Image",
+            "id": 729
+        },
+        {
+            "filename": "thumbnail/calmasnu.jpg",
+            "keywords": [{
+                "weight": 1,
+                "className": "Keyword",
+                "value": "calmasnu.jpg"
+            }],
+            "name": "calmasnu.jpg",
+            "className": "Image",
+            "id": 730
+        },
+        {
+            "filename": "thumbnail/adventureasnu.jpg",
+            "keywords": [{
+                "weight": 1,
+                "className": "Keyword",
+                "value": "adventureasnu.jpg"
+            }],
+            "name": "adventureasnu.jpg",
+            "className": "Image",
+            "id": 731
+        },
+        {
+            "filename": "thumbnail/scary.jpg",
+            "keywords": [{
+                "weight": 1,
+                "className": "Keyword",
+                "value": "scary.jpg"
+            }],
+            "name": "scary.jpg",
+            "className": "Image",
+            "id": 732
+        },
+        {
+            "filename": "thumbnail/nothing.jpg",
+            "keywords": [{
+                "weight": 1,
+                "className": "Keyword",
+                "value": "nothing.jpg"
+            }],
+            "name": "nothing.jpg",
+            "className": "Image",
+            "id": 733
+        },
+        {
+            "filename": "thumbnail/nostalgia.jpg",
+            "keywords": [{
+                "weight": 1,
+                "className": "Keyword",
+                "value": "nostalgia.jpg"
+            }],
+            "name": "nostalgia.jpg",
+            "className": "Image",
+            "id": 734
+        },
+        {
+            "filename": "thumbnail/nervous.jpg",
+            "keywords": [{
+                "weight": 1,
+                "className": "Keyword",
+                "value": "nervous.jpg"
+            }],
+            "name": "nervous.jpg",
+            "className": "Image",
+            "id": 735
+        },
+        {
+            "filename": "thumbnail/happy.jpg",
+            "keywords": [{
+                "weight": 1,
+                "className": "Keyword",
+                "value": "happy.jpg"
+            }],
+            "name": "happy.jpg",
+            "className": "Image",
+            "id": 736
+        },
+        {
+            "filename": "thumbnail/excited.jpg",
+            "keywords": [{
+                "weight": 1,
+                "className": "Keyword",
+                "value": "excited.jpg"
+            }],
+            "name": "excited.jpg",
+            "className": "Image",
+            "id": 737
+        },
+        {
+            "filename": "thumbnail/calm.jpg",
+            "keywords": [{
+                "weight": 1,
+                "className": "Keyword",
+                "value": "calm.jpg"
+            }],
+            "name": "calm.jpg",
+            "className": "Image",
+            "id": 738
+        },
+        {
+            "filename": "thumbnail/adventurous.jpg",
+            "keywords": [{
+                "weight": 1,
+                "className": "Keyword",
+                "value": "adventurous.jpg"
+            }],
+            "name": "adventurous.jpg",
+            "className": "Image",
+            "id": 739
+        }
+    ],
+    "texts": [],
+    "sounds": [{
+        "filename": "sound/aseasonga2.wav",
+        "keywords": [{
+            "weight": 1,
+            "className": "Keyword",
+            "value": "üse song 2.wav"
+        }],
+        "name": "üse song 2.wav",
+        "className": "Sound",
+        "id": 87
+    }],
+    "videos": [
+        {
+            "filename": "video/adventureasnu.mp4",
+            "keywords": [{
+                "weight": 1,
+                "className": "Keyword",
+                "value": "adventure snu"
+            }],
+            "name": "adventure snu",
+            "className": "Video",
+            "id": 35
+        },
+        {
+            "filename": "video/calmasnu.mp4",
+            "keywords": [{
+                "weight": 1,
+                "className": "Keyword",
+                "value": "calm snu"
+            }],
+            "name": "calm snu",
+            "className": "Video",
+            "id": 36
+        },
+        {
+            "filename": "video/endasnu.mp4",
+            "keywords": [{
+                "weight": 1,
+                "className": "Keyword",
+                "value": "end snu"
+            }],
+            "name": "end snu",
+            "className": "Video",
+            "id": 37
+        },
+        {
+            "filename": "video/excitedasnu.mp4",
+            "keywords": [{
+                "weight": 1,
+                "className": "Keyword",
+                "value": "excited snu"
+            }],
+            "name": "excited snu",
+            "className": "Video",
+            "id": 38
+        },
+        {
+            "filename": "video/happyasnu.mp4",
+            "keywords": [{
+                "weight": 1,
+                "className": "Keyword",
+                "value": "happy snu"
+            }],
+            "name": "happy snu",
+            "className": "Video",
+            "id": 39
+        },
+        {
+            "filename": "video/nervousasnu.mp4",
+            "keywords": [{
+                "weight": 1,
+                "className": "Keyword",
+                "value": "nervous snu"
+            }],
+            "name": "nervous snu",
+            "className": "Video",
+            "id": 40
+        },
+        {
+            "filename": "video/nostalgia.mp4",
+            "keywords": [{
+                "weight": 1,
+                "className": "Keyword",
+                "value": "nostalgia"
+            }],
+            "name": "nostalgia",
+            "className": "Video",
+            "id": 41
+        },
+        {
+            "filename": "video/scary.mp4",
+            "keywords": [{
+                "weight": 1,
+                "className": "Keyword",
+                "value": "scary"
+            }],
+            "name": "scary",
+            "className": "Video",
+            "id": 42
+        },
+        {
+            "filename": "video/startasnu.mp4",
+            "keywords": [{
+                "weight": 1,
+                "className": "Keyword",
+                "value": "start snu"
+            }],
+            "name": "start snu",
+            "className": "Video",
+            "id": 43
+        },
+        {
+            "filename": "video/stopamusic.mp4",
+            "keywords": [{
+                "weight": 1,
+                "className": "Keyword",
+                "value": "stop music"
+            }],
+            "name": "stop music",
+            "className": "Video",
+            "id": 44
+        }
+    ],
+    "snus": [
+        {
+            "keywords": [
+                {
+                    "weight": 1,
+                    "className": "Keyword",
+                    "value": "9"
+                },
+                {
+                    "weight": 1,
+                    "className": "Keyword",
+                    "value": "k"
+                },
+                {
+                    "weight": 1,
+                    "className": "Keyword",
+                    "value": "stop music"
+                }
+            ],
+            "lives": 1,
+            "starter": false,
+            "looping": false,
+            "rating": 0.10000000149011612,
+            "className": "Snu",
+            "ender": false,
+            "backgroundSoundLooping": true,
+            "previewMediaId": 51,
+            "insertText": "",
+            "mainMediaId": 44,
+            "backgroundSoundMode": "keep",
+            "maxLinks": 1,
+            "name": "stop music",
+            "thumbnailId": 722,
+            "id": 64,
+            "interfaceId": 11,
+            "previewText": "",
+            "events": [{
+                "Trigger": {
+                    "className": "Trigger",
+                    "id": 741,
+                    "time": 10000,
+                    "type": "org.korsakow.trigger.SnuTime"
+                },
+                "className": "Event",
+                "id": 740,
+                "Rule": {
+                    "keepLinks": false,
+                    "keywords": [],
+                    "className": "Rule",
+                    "rules": [{
+                        "keywords": [{
+                            "weight": 1,
+                            "className": "Keyword",
+                            "value": "e"
+                        }],
+                        "className": "Rule",
+                        "rules": [],
+                        "id": 721,
+                        "type": "org.korsakow.rule.KeywordLookup"
+                    }],
+                    "id": 719,
+                    "type": "org.korsakow.rule.Search"
+                },
+                "Predicate": {
+                    "predicates": [],
+                    "className": "Predicate",
+                    "id": 742,
+                    "type": "org.korsakow.predicate.True"
+                }
+            }]
+        },
+        {
+            "keywords": [
+                {
+                    "weight": 1,
+                    "className": "Keyword",
+                    "value": "s"
+                },
+                {
+                    "weight": 1,
+                    "className": "Keyword",
+                    "value": "start snu"
+                }
+            ],
+            "lives": 1,
+            "starter": true,
+            "looping": false,
+            "rating": 1,
+            "className": "Snu",
+            "ender": false,
+            "backgroundSoundId": 87,
+            "backgroundSoundLooping": false,
+            "previewMediaId": 43,
+            "insertText": "",
+            "mainMediaId": 43,
+            "backgroundSoundMode": "set",
+            "maxLinks": 1,
+            "name": "start snu",
+            "thumbnailId": 723,
+            "backgroundSoundVolume": 1,
+            "id": 66,
+            "interfaceId": 54,
+            "previewText": "",
+            "events": [{
+                "Trigger": {
+                    "className": "Trigger",
+                    "id": 744,
+                    "time": 18000,
+                    "type": "org.korsakow.trigger.SnuTime"
+                },
+                "className": "Event",
+                "id": 743,
+                "Rule": {
+                    "keepLinks": false,
+                    "keywords": [],
+                    "className": "Rule",
+                    "rules": [{
+                        "keywords": [{
+                            "weight": 1,
+                            "className": "Keyword",
+                            "value": "k"
+                        }],
+                        "className": "Rule",
+                        "rules": [],
+                        "id": 586,
+                        "type": "org.korsakow.rule.KeywordLookup"
+                    }],
+                    "id": 584,
+                    "type": "org.korsakow.rule.Search"
+                },
+                "Predicate": {
+                    "predicates": [],
+                    "className": "Predicate",
+                    "id": 745,
+                    "type": "org.korsakow.predicate.True"
+                }
+            }]
+        },
+        {
+            "keywords": [
+                {
+                    "weight": 1,
+                    "className": "Keyword",
+                    "value": "2"
+                },
+                {
+                    "weight": 1,
+                    "className": "Keyword",
+                    "value": "k"
+                },
+                {
+                    "weight": 1,
+                    "className": "Keyword",
+                    "value": "scary"
+                }
+            ],
+            "lives": 1,
+            "starter": false,
+            "looping": false,
+            "rating": 1,
+            "className": "Snu",
+            "ender": false,
+            "backgroundSoundLooping": true,
+            "previewMediaId": 52,
+            "insertText": "",
+            "mainMediaId": 42,
+            "backgroundSoundMode": "keep",
+            "maxLinks": 1,
+            "name": "scary",
+            "thumbnailId": 724,
+            "id": 67,
+            "interfaceId": 54,
+            "previewText": "",
+            "events": [{
+                "Trigger": {
+                    "className": "Trigger",
+                    "id": 747,
+                    "time": 32000,
+                    "type": "org.korsakow.trigger.SnuTime"
+                },
+                "className": "Event",
+                "id": 746,
+                "Rule": {
+                    "keepLinks": false,
+                    "keywords": [],
+                    "className": "Rule",
+                    "rules": [{
+                        "keywords": [{
+                            "weight": 1,
+                            "className": "Keyword",
+                            "value": "k"
+                        }],
+                        "className": "Rule",
+                        "rules": [],
+                        "id": 580,
+                        "type": "org.korsakow.rule.KeywordLookup"
+                    }],
+                    "id": 578,
+                    "type": "org.korsakow.rule.Search"
+                },
+                "Predicate": {
+                    "predicates": [],
+                    "className": "Predicate",
+                    "id": 748,
+                    "type": "org.korsakow.predicate.True"
+                }
+            }]
+        },
+        {
+            "keywords": [
+                {
+                    "weight": 1,
+                    "className": "Keyword",
+                    "value": "6"
+                },
+                {
+                    "weight": 1,
+                    "className": "Keyword",
+                    "value": "k"
+                },
+                {
+                    "weight": 1,
+                    "className": "Keyword",
+                    "value": "nostalgia"
+                }
+            ],
+            "lives": 1,
+            "starter": false,
+            "looping": false,
+            "rating": 1,
+            "className": "Snu",
+            "ender": false,
+            "backgroundSoundLooping": true,
+            "previewMediaId": 50,
+            "insertText": "",
+            "mainMediaId": 41,
+            "backgroundSoundMode": "keep",
+            "maxLinks": 1,
+            "name": "nostalgia",
+            "thumbnailId": 725,
+            "id": 68,
+            "interfaceId": 54,
+            "previewText": "",
+            "events": [{
+                "Trigger": {
+                    "className": "Trigger",
+                    "id": 750,
+                    "time": 35000,
+                    "type": "org.korsakow.trigger.SnuTime"
+                },
+                "className": "Event",
+                "id": 749,
+                "Rule": {
+                    "keepLinks": false,
+                    "keywords": [],
+                    "className": "Rule",
+                    "rules": [{
+                        "keywords": [{
+                            "weight": 1,
+                            "className": "Keyword",
+                            "value": "k"
+                        }],
+                        "className": "Rule",
+                        "rules": [],
+                        "id": 592,
+                        "type": "org.korsakow.rule.KeywordLookup"
+                    }],
+                    "id": 590,
+                    "type": "org.korsakow.rule.Search"
+                },
+                "Predicate": {
+                    "predicates": [],
+                    "className": "Predicate",
+                    "id": 751,
+                    "type": "org.korsakow.predicate.True"
+                }
+            }]
+        },
+        {
+            "keywords": [
+                {
+                    "weight": 1,
+                    "className": "Keyword",
+                    "value": "3"
+                },
+                {
+                    "weight": 1,
+                    "className": "Keyword",
+                    "value": "k"
+                },
+                {
+                    "weight": 1,
+                    "className": "Keyword",
+                    "value": "nervous snu"
+                }
+            ],
+            "lives": 1,
+            "starter": false,
+            "looping": false,
+            "rating": 1,
+            "className": "Snu",
+            "ender": false,
+            "backgroundSoundLooping": true,
+            "previewMediaId": 49,
+            "insertText": "",
+            "mainMediaId": 40,
+            "backgroundSoundMode": "keep",
+            "maxLinks": 1,
+            "name": "nervous snu",
+            "thumbnailId": 726,
+            "id": 69,
+            "interfaceId": 54,
+            "previewText": "",
+            "events": [{
+                "Trigger": {
+                    "className": "Trigger",
+                    "id": 753,
+                    "time": 25000,
+                    "type": "org.korsakow.trigger.SnuTime"
+                },
+                "className": "Event",
+                "id": 752,
+                "Rule": {
+                    "keepLinks": false,
+                    "keywords": [],
+                    "className": "Rule",
+                    "rules": [{
+                        "keywords": [{
+                            "weight": 1,
+                            "className": "Keyword",
+                            "value": "k"
+                        }],
+                        "className": "Rule",
+                        "rules": [],
+                        "id": 598,
+                        "type": "org.korsakow.rule.KeywordLookup"
+                    }],
+                    "id": 596,
+                    "type": "org.korsakow.rule.Search"
+                },
+                "Predicate": {
+                    "predicates": [],
+                    "className": "Predicate",
+                    "id": 754,
+                    "type": "org.korsakow.predicate.True"
+                }
+            }]
+        },
+        {
+            "keywords": [
+                {
+                    "weight": 1,
+                    "className": "Keyword",
+                    "value": "1"
+                },
+                {
+                    "weight": 1,
+                    "className": "Keyword",
+                    "value": "happy snu"
+                },
+                {
+                    "weight": 1,
+                    "className": "Keyword",
+                    "value": "k"
+                }
+            ],
+            "lives": 1,
+            "starter": false,
+            "looping": false,
+            "rating": 1,
+            "className": "Snu",
+            "ender": false,
+            "backgroundSoundLooping": true,
+            "previewMediaId": 48,
+            "insertText": "",
+            "mainMediaId": 39,
+            "backgroundSoundMode": "keep",
+            "maxLinks": 1,
+            "name": "happy snu",
+            "thumbnailId": 727,
+            "id": 70,
+            "interfaceId": 54,
+            "previewText": "",
+            "events": [{
+                "Trigger": {
+                    "className": "Trigger",
+                    "id": 756,
+                    "time": 17000,
+                    "type": "org.korsakow.trigger.SnuTime"
+                },
+                "className": "Event",
+                "id": 755,
+                "Rule": {
+                    "keepLinks": false,
+                    "keywords": [],
+                    "className": "Rule",
+                    "rules": [{
+                        "keywords": [{
+                            "weight": 1,
+                            "className": "Keyword",
+                            "value": "k"
+                        }],
+                        "className": "Rule",
+                        "rules": [],
+                        "id": 604,
+                        "type": "org.korsakow.rule.KeywordLookup"
+                    }],
+                    "id": 602,
+                    "type": "org.korsakow.rule.Search"
+                },
+                "Predicate": {
+                    "predicates": [],
+                    "className": "Predicate",
+                    "id": 757,
+                    "type": "org.korsakow.predicate.True"
+                }
+            }]
+        },
+        {
+            "keywords": [
+                {
+                    "weight": 1,
+                    "className": "Keyword",
+                    "value": "4"
+                },
+                {
+                    "weight": 1,
+                    "className": "Keyword",
+                    "value": "excited snu"
+                },
+                {
+                    "weight": 1,
+                    "className": "Keyword",
+                    "value": "k"
+                }
+            ],
+            "lives": 1,
+            "starter": false,
+            "looping": false,
+            "rating": 1,
+            "className": "Snu",
+            "ender": false,
+            "backgroundSoundLooping": true,
+            "previewMediaId": 47,
+            "insertText": "",
+            "mainMediaId": 38,
+            "backgroundSoundMode": "keep",
+            "maxLinks": 1,
+            "name": "excited snu",
+            "thumbnailId": 728,
+            "id": 71,
+            "interfaceId": 54,
+            "previewText": "",
+            "events": [{
+                "Trigger": {
+                    "className": "Trigger",
+                    "id": 759,
+                    "time": 14000,
+                    "type": "org.korsakow.trigger.SnuTime"
+                },
+                "className": "Event",
+                "id": 758,
+                "Rule": {
+                    "keepLinks": false,
+                    "keywords": [],
+                    "className": "Rule",
+                    "rules": [{
+                        "keywords": [{
+                            "weight": 1,
+                            "className": "Keyword",
+                            "value": "k"
+                        }],
+                        "className": "Rule",
+                        "rules": [],
+                        "id": 610,
+                        "type": "org.korsakow.rule.KeywordLookup"
+                    }],
+                    "id": 608,
+                    "type": "org.korsakow.rule.Search"
+                },
+                "Predicate": {
+                    "predicates": [],
+                    "className": "Predicate",
+                    "id": 760,
+                    "type": "org.korsakow.predicate.True"
+                }
+            }]
+        },
+        {
+            "keywords": [
+                {
+                    "weight": 1,
+                    "className": "Keyword",
+                    "value": "e"
+                },
+                {
+                    "weight": 1,
+                    "className": "Keyword",
+                    "value": "end snu"
+                }
+            ],
+            "lives": 1,
+            "starter": false,
+            "looping": false,
+            "rating": 1,
+            "className": "Snu",
+            "ender": true,
+            "backgroundSoundLooping": false,
+            "previewMediaId": 505,
+            "insertText": "",
+            "mainMediaId": 37,
+            "backgroundSoundMode": "clear",
+            "maxLinks": 1,
+            "name": "end snu",
+            "thumbnailId": 729,
+            "id": 72,
+            "interfaceId": 54,
+            "previewText": "",
+            "events": []
+        },
+        {
+            "keywords": [
+                {
+                    "weight": 1,
+                    "className": "Keyword",
+                    "value": "7"
+                },
+                {
+                    "weight": 1,
+                    "className": "Keyword",
+                    "value": "calm snu"
+                },
+                {
+                    "weight": 1,
+                    "className": "Keyword",
+                    "value": "k"
+                }
+            ],
+            "lives": 1,
+            "starter": false,
+            "looping": false,
+            "rating": 1,
+            "className": "Snu",
+            "ender": false,
+            "backgroundSoundLooping": true,
+            "previewMediaId": 46,
+            "insertText": "",
+            "mainMediaId": 36,
+            "backgroundSoundMode": "keep",
+            "maxLinks": 1,
+            "name": "calm snu",
+            "thumbnailId": 730,
+            "id": 73,
+            "interfaceId": 54,
+            "previewText": "",
+            "events": [{
+                "Trigger": {
+                    "className": "Trigger",
+                    "id": 762,
+                    "time": 32000,
+                    "type": "org.korsakow.trigger.SnuTime"
+                },
+                "className": "Event",
+                "id": 761,
+                "Rule": {
+                    "keepLinks": false,
+                    "keywords": [],
+                    "className": "Rule",
+                    "rules": [{
+                        "keywords": [{
+                            "weight": 1,
+                            "className": "Keyword",
+                            "value": "k"
+                        }],
+                        "className": "Rule",
+                        "rules": [],
+                        "id": 616,
+                        "type": "org.korsakow.rule.KeywordLookup"
+                    }],
+                    "id": 614,
+                    "type": "org.korsakow.rule.Search"
+                },
+                "Predicate": {
+                    "predicates": [],
+                    "className": "Predicate",
+                    "id": 763,
+                    "type": "org.korsakow.predicate.True"
+                }
+            }]
+        },
+        {
+            "keywords": [
+                {
+                    "weight": 1,
+                    "className": "Keyword",
+                    "value": "8"
+                },
+                {
+                    "weight": 1,
+                    "className": "Keyword",
+                    "value": "adventure snu"
+                },
+                {
+                    "weight": 1,
+                    "className": "Keyword",
+                    "value": "k"
+                }
+            ],
+            "lives": 1,
+            "starter": false,
+            "looping": false,
+            "rating": 1,
+            "className": "Snu",
+            "ender": false,
+            "backgroundSoundLooping": true,
+            "previewMediaId": 45,
+            "insertText": "",
+            "mainMediaId": 35,
+            "backgroundSoundMode": "keep",
+            "maxLinks": 1,
+            "name": "adventure snu",
+            "thumbnailId": 731,
+            "id": 74,
+            "interfaceId": 54,
+            "previewText": "",
+            "events": [{
+                "Trigger": {
+                    "className": "Trigger",
+                    "id": 765,
+                    "time": 23000,
+                    "type": "org.korsakow.trigger.SnuTime"
+                },
+                "className": "Event",
+                "id": 764,
+                "Rule": {
+                    "keepLinks": false,
+                    "keywords": [],
+                    "className": "Rule",
+                    "rules": [{
+                        "keywords": [{
+                            "weight": 1,
+                            "className": "Keyword",
+                            "value": "k"
+                        }],
+                        "className": "Rule",
+                        "rules": [],
+                        "id": 622,
+                        "type": "org.korsakow.rule.KeywordLookup"
+                    }],
+                    "id": 620,
+                    "type": "org.korsakow.rule.Search"
+                },
+                "Predicate": {
+                    "predicates": [],
+                    "className": "Predicate",
+                    "id": 766,
+                    "type": "org.korsakow.predicate.True"
+                }
+            }]
+        },
+        {
+            "keywords": [
+                {
+                    "weight": 1,
+                    "className": "Keyword",
+                    "value": "PreviewScary"
+                },
+                {
+                    "weight": 1,
+                    "className": "Keyword",
+                    "value": "scary"
+                }
+            ],
+            "lives": 1,
+            "starter": false,
+            "looping": false,
+            "rating": 1,
+            "className": "Snu",
+            "ender": false,
+            "backgroundSoundLooping": false,
+            "previewMediaId": 52,
+            "insertText": "",
+            "mainMediaId": 52,
+            "backgroundSoundMode": "keep",
+            "maxLinks": 1,
+            "name": "scary",
+            "thumbnailId": 732,
+            "id": 75,
+            "interfaceId": 54,
+            "previewText": "",
+            "events": []
+        },
+        {
+            "keywords": [
+                {
+                    "weight": 1,
+                    "className": "Keyword",
+                    "value": "PreviewNothing"
+                },
+                {
+                    "weight": 1,
+                    "className": "Keyword",
+                    "value": "nothing"
+                }
+            ],
+            "lives": 1,
+            "starter": false,
+            "looping": false,
+            "rating": 1,
+            "className": "Snu",
+            "ender": false,
+            "backgroundSoundLooping": false,
+            "previewMediaId": 51,
+            "insertText": "",
+            "mainMediaId": 51,
+            "backgroundSoundMode": "keep",
+            "maxLinks": 1,
+            "name": "nothing",
+            "thumbnailId": 733,
+            "id": 76,
+            "interfaceId": 54,
+            "previewText": "",
+            "events": []
+        },
+        {
+            "keywords": [
+                {
+                    "weight": 1,
+                    "className": "Keyword",
+                    "value": "PreviewNostalgic"
+                },
+                {
+                    "weight": 1,
+                    "className": "Keyword",
+                    "value": "nostalgia"
+                }
+            ],
+            "lives": 1,
+            "starter": false,
+            "looping": false,
+            "rating": 1,
+            "className": "Snu",
+            "ender": false,
+            "backgroundSoundLooping": false,
+            "previewMediaId": 50,
+            "insertText": "",
+            "mainMediaId": 50,
+            "backgroundSoundMode": "keep",
+            "maxLinks": 1,
+            "name": "nostalgia",
+            "thumbnailId": 734,
+            "id": 77,
+            "interfaceId": 54,
+            "previewText": "",
+            "events": []
+        },
+        {
+            "keywords": [
+                {
+                    "weight": 1,
+                    "className": "Keyword",
+                    "value": "PreviewNervous"
+                },
+                {
+                    "weight": 1,
+                    "className": "Keyword",
+                    "value": "nervous"
+                }
+            ],
+            "lives": 1,
+            "starter": false,
+            "looping": false,
+            "rating": 1,
+            "className": "Snu",
+            "ender": false,
+            "backgroundSoundLooping": false,
+            "previewMediaId": 49,
+            "insertText": "",
+            "mainMediaId": 49,
+            "backgroundSoundMode": "keep",
+            "maxLinks": 1,
+            "name": "nervous",
+            "thumbnailId": 735,
+            "id": 78,
+            "interfaceId": 54,
+            "previewText": "",
+            "events": []
+        },
+        {
+            "keywords": [
+                {
+                    "weight": 1,
+                    "className": "Keyword",
+                    "value": "PreviewHappy"
+                },
+                {
+                    "weight": 1,
+                    "className": "Keyword",
+                    "value": "happyPreview"
+                }
+            ],
+            "lives": 1,
+            "starter": false,
+            "looping": false,
+            "rating": 1,
+            "className": "Snu",
+            "ender": false,
+            "backgroundSoundLooping": false,
+            "previewMediaId": 48,
+            "insertText": "",
+            "mainMediaId": 48,
+            "backgroundSoundMode": "keep",
+            "maxLinks": 1,
+            "name": "happyPreview",
+            "thumbnailId": 736,
+            "id": 79,
+            "interfaceId": 54,
+            "previewText": "",
+            "events": []
+        },
+        {
+            "keywords": [
+                {
+                    "weight": 1,
+                    "className": "Keyword",
+                    "value": "PreviewExcited"
+                },
+                {
+                    "weight": 1,
+                    "className": "Keyword",
+                    "value": "excited"
+                }
+            ],
+            "lives": 1,
+            "starter": false,
+            "looping": false,
+            "rating": 1,
+            "className": "Snu",
+            "ender": false,
+            "backgroundSoundLooping": false,
+            "previewMediaId": 47,
+            "insertText": "",
+            "mainMediaId": 47,
+            "backgroundSoundMode": "keep",
+            "maxLinks": 1,
+            "name": "excited",
+            "thumbnailId": 737,
+            "id": 80,
+            "interfaceId": 54,
+            "previewText": "",
+            "events": []
+        },
+        {
+            "keywords": [
+                {
+                    "weight": 1,
+                    "className": "Keyword",
+                    "value": "PreviewCalm"
+                },
+                {
+                    "weight": 1,
+                    "className": "Keyword",
+                    "value": "calm"
+                }
+            ],
+            "lives": 1,
+            "starter": false,
+            "looping": false,
+            "rating": 1,
+            "className": "Snu",
+            "ender": false,
+            "backgroundSoundLooping": false,
+            "previewMediaId": 46,
+            "insertText": "",
+            "mainMediaId": 46,
+            "backgroundSoundMode": "keep",
+            "maxLinks": 1,
+            "name": "calm",
+            "thumbnailId": 738,
+            "id": 81,
+            "interfaceId": 54,
+            "previewText": "",
+            "events": []
+        },
+        {
+            "keywords": [
+                {
+                    "weight": 1,
+                    "className": "Keyword",
+                    "value": "PreviewAdventurous"
+                },
+                {
+                    "weight": 1,
+                    "className": "Keyword",
+                    "value": "adventurous"
+                }
+            ],
+            "lives": 1,
+            "starter": false,
+            "looping": false,
+            "rating": 1,
+            "className": "Snu",
+            "ender": false,
+            "backgroundSoundLooping": false,
+            "previewMediaId": 45,
+            "insertText": "",
+            "mainMediaId": 45,
+            "backgroundSoundMode": "keep",
+            "maxLinks": 1,
+            "name": "adventurous",
+            "thumbnailId": 739,
+            "id": 82,
+            "interfaceId": 54,
+            "previewText": "",
+            "events": []
+        }
+    ],
+    "version": "6.0.7"
+}
