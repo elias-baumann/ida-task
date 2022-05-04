@@ -1,4 +1,4 @@
-Open in Fire Fox and do following points:
+Open in Firefox and do following points:
 
 1. Open Firefox and enter “about:config” into the address bar, ignore the warning.
 2. Search for “security.fileuri.strict_origin_policy”.
